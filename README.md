@@ -1,1 +1,0 @@
-# Kodluyoruz-Backend-Patikas-
